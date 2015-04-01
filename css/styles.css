@@ -3,6 +3,13 @@ body {
     font-size: 16px;
 }
 
+p:first-of-type em {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 38px;
+    text-align: center;
+}
+
 img {
     max-width: 100%;
     /*border: solid 1px #eee;*/
@@ -13,7 +20,8 @@ h1 {
     font-size: 44px;
     font-weight: 400;
     margin-top: 32px;
-    margin-bottom: 16px;
+    margin-bottom: 12px;
+    text-align: center;
 }
 
 h2 {
@@ -29,8 +37,8 @@ h2 {
 
 
 h3 {
-    margin-top: 50px;
-    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-bottom: 16px;
 }
 
 li > ul {
@@ -48,7 +56,10 @@ li > ul > li {
     border-top: solid 1px #eee;
 }
 
-/*blockquote {*/
+blockquote {
+    font-size: 16px;
+    font-style: italic;
+    color: #555555;
     /*padding: 15px;*/
     /*margin-bottom: 20px;*/
     /*border: 1px solid transparent;*/
@@ -56,7 +67,7 @@ li > ul > li {
     /*color: #31708f;*/
     /*background-color: #d9edf7;*/
     /*border-color: #bce8f1;*/
-/*}*/
+}
 
 h2 {
     font-size: 24px;

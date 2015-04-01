@@ -3,7 +3,7 @@ layout: main
 title: Multi Sensory Applications
 ---
 # Principles of Multi-Sensory Applications
-> Your CRUDy Software Needs a New Brain
+_Your CRUDy Software Needs a New Brain_
 
 We have entered a new era of computing where everyone and everything is connected.
 
