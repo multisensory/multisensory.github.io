@@ -1,3 +1,8 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
 img {
     max-width: 100%;
     /*border: solid 1px #eee;*/
@@ -5,7 +10,14 @@ img {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 44px;
+    font-weight: 400;
+    margin-top: 32px;
+    margin-bottom: 16px;
+}
+
+h2 {
+    font-size: 32px !important;
     font-weight: 400;
     margin-bottom: 16px;
 }
