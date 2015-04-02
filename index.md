@@ -77,7 +77,7 @@ In the new era of computing where everyone and everything is connected, applicat
 1. Multi-Sensory Applications use their five senses to capture information. They use the keyboard as a last resort, and they don’t ask for any information they should already know
 1. Multi-Sensory Applications leverage data science to make sense of the massive amount of data captured providing insights from aggregated events.
 1. Multi-Sensory Applications are always learning. They capture user behaviors across connected devices and leverage their big data storage and analysis infrastructure to recognize patterns, providing predictive experiences and personalized recommendations.
-1. Multi-Sensory Applications connect everything with everything. They use a service composition architecture to aggregate, correlate, and transform information from different inputs.
+1. Multi-Sensory Applications connect everything with everything. They use a service composition architecture or microservices to aggregate, correlate, and transform information from different inputs.
 1. Multi-Sensory Applications are extroverted. They initiate interactions and proactively engage users (share, challenge, motivate) using multiple channels (push notification, email, SMS, and a UI strategy across multiple devices).
 1. Multi-Sensory Applications are social coordinators. They integrate identity, connectedness, behaviors, and environment to create new types of social engagement: followers, feeds, leaderboards, challenges, ratings, etc.
 
