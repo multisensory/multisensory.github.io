@@ -57,7 +57,7 @@ MSAs communicate with the user using different channels. They don’t wait for t
 ### Learning - Never make users do repetitive and brainless operations
 MSAs are capable of anticipating the user’s actions and making “do not make me think” decisions based on Machine Learning and Workflows. Machine Learning adapts and learns over time so that it can make automated decisions and predict what the user will do next.  Workflows enable business processes to be automatically applied to incoming senses.
 
-## Microservices as the Nervous System
+## The Nervous System
 Bringing it all together, an MSA is the nervous system that composes Senses and Transducers to create intelligence across the typical data silos. These interconnected parts create an engagement system across mobile apps, web apps, Internet of Things devices, back-office management apps, and many other interfaces.
 
 ![](images/msa-3.png)
@@ -68,7 +68,7 @@ Here is an example of an engaging experience that a Multi-Sensory Application co
 
 This type of experience goes way beyond what today’s typical CRUD applications can deliver.  Instead of focusing on individual data silos, it focuses on engagement, connection, and intelligence.  This example brings together many different Senses and Transducers to form an MSA that delights customers and helps businesses better serve them.
 
-The MSA approach fits well with the emerging microservices architecture that breaks systems into small, composable, services that can be weaved together in different configurations.  For instance, a learning microservice can consume data from a storage microservice, providing predictive information to a mobile app and recommendations to a periodic email service.  Breaking each function of an MSA’s nervous system into a microservice enables it to be easily used by other parts of the system and moves deployment, scaling, and management closer in proximity to the team that owns the service.
+The MSA approach also fits well with the emerging microservices architecture that breaks systems into small, composable, services that can be weaved together in different configurations.  For instance, a learning microservice can consume data from a storage microservice, providing predictive information to a mobile app and recommendations to a periodic email service.  Breaking each function of an MSA’s nervous system into a microservice enables it to be easily used by other parts of the system and moves deployment, scaling, and management closer in proximity to the team that owns the service.
 
 ## Summary
 In the new era of computing where everyone and everything is connected, applications are no longer terminals for data entry: they are the primary channel of customer engagement for your business. Multi-Sensory Applications integrate and process multiple inputs across multiple devices to deliver contextual, connected and viral experiences. Multi-Sensory Applications follow seven principles.
