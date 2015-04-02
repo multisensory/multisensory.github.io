@@ -2,9 +2,6 @@
 layout: main
 title: Multi Sensory Applications
 ---
-# Principles of Multi-Sensory Applications
-_Your CRUDy Software Needs a New Brain_
-
 We have entered a new era of computing where everyone and everything is connected.
 
 But this won’t automatically mean more people using your apps and doing business with you on more devices. In fact, it will mean the opposite if you don’t start thinking about your app in a different way: as the primary channel of customer engagement for your business, as opposed to a data entry terminal forcing your customers into entering and interacting with siloed data with no intelligence or connection.
@@ -13,7 +10,7 @@ The way companies are able to intelligently connect these silos to engage with t
 
 For example, Uber has changed the personal transportation industry by delivering an experience that deeply engages customers and drivers by connecting everything to everything: passengers to cars, passengers to passengers, ratings to business processes, passengers’ playlists to the car’s music app, and the list goes on.
 
-In this document, we describe the principles of “Multi-Sensory Applications”, a new breed of applications that, much like the human brain, utilize all the inputs or “senses” available to gain a complete understanding of the context. By integrating and processing the input from all the senses, MSAs deliver a new kind of engagement-centric applications that is rapidly making traditional CRUD-centric applications obsolete and irrelevant.
+In this document, we describe the principles of “Multi-Sensory Applications”, a new breed of applications that, much like the human brain, utilize all the inputs or “senses” available to gain a complete understanding of the context. By integrating and processing the input from all the senses, MSAs deliver a new kind of engagement-centric applications that is rapidly making traditional CRUD-centric applications feel obsolete and irrelevant.
 
 ## The Five Senses
 Are you still building applications that have the keyboard as their only input and a database as their only data store? Multi-Sensory Applications use five primary inputs or “senses” to create a 360 degree view of the context, and then use that context to deliver the most relevant, engaging and connected experience.
@@ -36,7 +33,7 @@ Most applications still need to capture information directly from the user, but 
 The environment is the peripheral data and information that the application doesn’t directly capture, manage or control, but that can help it gain higher levels of awareness. For example, a modern application might need to notice and account for relevant Twitter conversations and the sentiment of these conversations.
 
 ## The Six Sensory Transducers
-Disconnected individual senses are incapable of delivering the intelligently connected experiences that users want. We all regularly have frustrating experiences that exemplify this.  For example, my credit card company should be able to easily prevent fraud since I’ve installed their app and given it permission to always know where I am: “Of course I didn’t just buy gas in Omaha; the app knows I’m in Denver!”
+Disconnected individual senses are incapable of delivering the intelligently connected experiences that users want. We all regularly have frustrating experiences that exemplify this.  For example, your credit card company should be able to easily prevent fraud since you have installed their app and given it permission to always know where you are: “Of course you didn’t just buy gas in Omaha; the app knows you are in Denver!”
 
 In the pre-cloud era, applications and data were siloed. Firewalls and the lack of sharing and security protocols made it difficult to integrate inputs and data between systems. The cloud enables Multi-Sensory Applications to intelligently connect and transform information captured by the senses in order to deliver deeply engaging experiences. MSAs use six sensory transducers to manipulate and integrate data captured by the senses.
 
@@ -73,7 +70,7 @@ This type of experience goes way beyond what today’s typical CRUD applications
 
 The MSA approach also fits well with the emerging microservices movement that breaks systems into small, composable, services that can be weaved together in different configurations.  For instance, a learning microservice can consume data from a storage microservice, providing predictive information to a mobile app and recommendations to a periodic email service.  Breaking each function of an MSA’s nervous system into a microservice enables it to be easily used by other parts of the system and moves deployment, scaling, and management closer in proximity to the team that owns the service.
 
-## Conclusion
+## Summary
 In the new era of computing where everyone and everything is connected, applications are no longer terminals for data entry: they are the primary channel of customer engagement for your business. Multi-Sensory Applications integrate and process multiple inputs across multiple devices to deliver contextual, connected and viral experiences. Multi-Sensory Applications follow seven principles.
 
 1. Multi-Sensory Applications know you better than yourself. They leverage identity services that go beyond authentication and authorization and provide a consolidated view of the user’s identity and social graph.
